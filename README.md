@@ -13,6 +13,7 @@ Tech Stack:
 Frontend: Next.js Tailwind CSS  Typescript
 Backend: Node.js 
 Database: Appwrite  
+Additional tools: Twilio for SMS notification  
 
 Installation:  
 
