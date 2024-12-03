@@ -28,4 +28,27 @@ git clone https://github.com/soumya2001-hash/VitalCare.git
 Navigate to project directory:  
 cd VitalCare  
 
-Install dependencies for 
+Install dependencies  
+npm install  
+
+Set up environment variables:  
+Create .env.local file in the root of the project directory and add all the neccessary keys and IDs.  
+
+Start the development server :  
+npm start  
+
+Open your browser and go to http://localhost:3000 (or as configured).  
+
+Usage:  
+Sign up and create a user account.  
+Add your medical records and history for better tracking.  
+Schedule appointments directly from the app.  
+
+To access admin page, enter the passcode you have configured in the .env file.  
+
+Contributing:  
+Contributions are welcome! Fork the repository and create a pull request with your proposed changes.  
+
+
+
+
