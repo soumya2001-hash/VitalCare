@@ -10,9 +10,9 @@ Health insights: Get tailored insights and recommendations for better well-being
 User-friendly interface:  An intuitive design for smooth navigation.  
 
 Tech Stack:  
-Frontend: Next.js Tailwind CSS  Typescript
-Backend: Node.js 
-Database: Appwrite  
+Frontend: Next.js Tailwind CSS  Typescript  
+Backend: Node.js  
+Database: Appwrite    
 Additional tools: Twilio for SMS notification  
 
 Installation:  
